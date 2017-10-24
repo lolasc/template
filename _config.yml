@@ -16,6 +16,5 @@ kramdown:
 defaults:
 -
   scope:
-    path: ""
   values:
     layout: "root"
