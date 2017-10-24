@@ -19,4 +19,4 @@ defaults:
     path: ""
   values:
     layout: "root"
-  	base_url: "lolasc/thetent-manifest"
+    base_url: "lolasc/thetent-manifest"
