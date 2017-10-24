@@ -16,5 +16,6 @@ kramdown:
 defaults:
 -
   scope:
+  	base_url: "lolasc/thetent-manifest"
   values:
     layout: "root"
